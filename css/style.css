@@ -194,7 +194,14 @@
 	}
 
 		header.major h2 {
-			font-size: 2em;
+			font-family: 'Montserrat', sans-serif;
+			font-weight: 600;
+			font-size: 2.9em;
+			text-transform: uppercase;
+			text-align: center;
+			color: #322f31 !important;
+			display: block;
+			background-color: #dedede;
 		}
 
 		header.major h2 + p {
